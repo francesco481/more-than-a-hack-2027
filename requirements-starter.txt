@@ -10,6 +10,9 @@
 
 kloppy==3.18.0
 matplotlib
+scikit-learn==1.6.1
+torch==2.8.0
+joblib==1.5.3
 
 # For the notebooks in starter/
 notebook

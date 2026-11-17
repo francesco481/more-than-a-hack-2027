@@ -1,0 +1,11 @@
+.git
+.gitignore
+data/*
+!data/README.md
+cache/*
+*.mp4
+*.pdf
+.venv*
+venv*
+__pycache__
+*.pyc

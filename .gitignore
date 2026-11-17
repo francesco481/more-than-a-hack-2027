@@ -59,6 +59,14 @@ organizers/
 __pycache__/
 *.py[cod]
 .venv/
+.venv*/
 venv/
+venv*/
 env/
 .DS_Store
+
+# data cache (regenerate with: python starter/prep.py --all)
+cache/
+
+# external dependencies / repositories
+external/
